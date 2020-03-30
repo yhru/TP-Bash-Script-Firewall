@@ -1,0 +1,1 @@
+Pour améliorer la sécurité de l'entreprise il est possible de mettre en place de multiple chose, comme par exemple le Proxy qui permet d'exploiter les catégories plus dine de la BDD poiur afficher aux utilisateurs des messages d'information pour les responsabiliser face aux cyber menaces.
